@@ -8,7 +8,7 @@ import JobPage from './components/JobPage';
 import Viewdetails from './components/Viewdetails';
 import Editjob from './components/Editjob';
 
-export const server = "https://aamish-job-listing.onrender.com/api/v1/user"
+export const server = "https://shobhit-back-end.onrender.com/api/v1/user"
 
 function App() {
   return (
